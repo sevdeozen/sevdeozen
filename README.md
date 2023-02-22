@@ -22,8 +22,8 @@ I'm graduated from Dokuz Eylul University, department of Computer Education and 
 
 </br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sevdeozen&style=flat-square&color=pink" alt=""/>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=sevdeozen&style=flat-square&color=orange" alt=""/>
 </div>
 
 ## 🛠️ Languages and Tools
