@@ -20,6 +20,7 @@ I'm a React Frontend Developer
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=sevdeozen&style=flat-square&color=orange" alt=""/>
 </div>
+
 # 💫 About Me: 
 
 I'm frontend Developer who is committed to self-development and lifetime learning. I'm always eager to learn new skills.
