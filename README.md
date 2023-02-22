@@ -1,6 +1,8 @@
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" align="right" width="300" height="250" >
 
+
 </br>
+
 
 <h2 align="center">
 Hi there, I'm Sevde 👋
@@ -13,8 +15,13 @@ I'm a React Frontend Developer
 
 </br>
 </br>
+</br>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=sevdeozen&style=flat-square&color=orange" alt=""/>
+</div>
 
-# 💫 About Me:
+# 💫 About Me: 
+
 I'm frontend Developer who is committed to self-development and lifetime learning. I'm always eager to learn new skills.
 I'm a multi-tasking person when handling tasks and can work well under pressure. I try to utilize a creative approach to problem-solving while working in a team or individually.
 
@@ -22,9 +29,7 @@ I'm graduated from Dokuz Eylul University, department of Computer Education and 
 
 </br>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=sevdeozen&style=flat-square&color=orange" alt=""/>
-</div>
+
 
 ## 🛠️ Languages and Tools
 
